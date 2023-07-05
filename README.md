@@ -29,4 +29,4 @@ Drag your project folder onto the batch file and follow the prompts.
 
 ## Extension:
 Add additional file types to be filtered out, remove warnings and confirmations, set the working directory and work recursively, etc.
-Just remember; either delete the `Library` folder, or leave it's contents alone. Don't alter it's contents if you don't delete it entirely! You'll get some frankensteined meta data on rebuild / re-open and cause damage to your project.
+Just remember; either delete the `Library` folder, or leave its contents alone. Don't alter its contents if you don't delete it entirely! You'll get some frankensteined meta data on rebuild / re-open and cause damage to your project.
